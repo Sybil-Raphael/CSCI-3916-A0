@@ -1,4 +1,3 @@
 # Assignment Zero
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/41496288-1586a80d-19c4-41cb-8ff7-b10d60ad2669?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41496288-1586a80d-19c4-41cb-8ff7-b10d60ad2669%26entityType%3Dcollection%26workspaceId%3Dcc3bad96-7c40-4ea9-beba-0873405461fa#?env%5Braphael-hw0%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiVHVyaW5nIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJUdXJpbmciLCJjb21wbGV0ZVNlc3Npb25WYWx1ZSI6IlR1cmluZyIsInNlc3Npb25JbmRleCI6MH0seyJrZXkiOiJib29rX2lkIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6IlFuVVBCQUFBUUJBSiIsImNvbXBsZXRlU2Vzc2lvblZhbHVlIjoiUW5VUEJBQUFRQkFKIiwic2Vzc2lvbkluZGV4IjoxfV0=)
-
