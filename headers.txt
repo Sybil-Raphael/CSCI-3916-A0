@@ -1,0 +1,6 @@
+// request headers 
+User-Agent: displays application and the version of that application making the request (ex: PostmanRuntime/7.43.0)
+Accept: refers to how the system wants to accept the request (ex: */* means can accept any type, such as, JSON or HTML)
+Host: displays the domain of the server making the request (ex: www.googleapis.com)
+Accept-Encoding: refers to the type of encoding accepted by the server; how to compress response (ex: gzip, deflate, br)
+Connection: displays how the connection between the server and client should be kept; persistent or non-persistent (ex: keep-alive) 
